@@ -29,19 +29,22 @@ const projects: Project[] = [
     imageAlt: "Any Fantasy World author website showcase preview",
   },
   {
-    title: "Local Service Business Demo",
+    title: "Crest Property Care",
     category: "Demo project",
-    href: "#",
+    href: "https://crest-property-care.vercel.app/",
     shortDescription:
-      "A polished website concept for trades, property services and local businesses.",
+      "A premium one-page website concept for a local property care business.",
     description:
-      "A professional demo site designed for a local service business, with clear service sections, trust signals, enquiry-focused calls to action and mobile-first page structure. This will show how Ablaze Tech Services can help plumbers, landscapers, trades and property service businesses look credible online.",
+      "A fictional local service business website designed to show how Ablaze Tech Services can help trades, landscapers and property maintenance businesses look professional online. The site uses a mobile-first layout, clear trust signals, project examples, quote-focused calls to action and a polished contact section to encourage customer enquiries.",
     tags: [
       "Local business",
-      "Service pages",
       "Mobile-first",
       "Lead generation",
+      "Responsive design",
+      "Demo website",
     ],
+    image: "/images/projects/crest-property-care-card.png",
+    imageAlt: "Crest Property Care local service business website preview",
   },
   {
     title: "E-commerce Demo",

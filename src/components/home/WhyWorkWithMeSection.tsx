@@ -10,7 +10,7 @@ const reasons = [
   },
   {
     title: "Clear communication",
-    text: "You will know what is happening, what I need from you, and what the next step is throughout the project.",
+    text: "You will know what is happening, what we need from you, and what the next step is throughout the project.",
     icon: MessageCircle,
   },
   {
@@ -20,7 +20,7 @@ const reasons = [
   },
   {
     title: "Practical support",
-    text: "I can help with structure, wording, basic SEO, deployment and the practical details that make a website usable.",
+    text: "We can help with structure, wording, basic SEO, deployment and the practical details that make a website usable.",
     icon: ShieldCheck,
   },
 ];
@@ -41,7 +41,7 @@ export function WhyWorkWithMeSection() {
               Simple promise
             </p>
             <p className="mt-3 text-lg font-semibold leading-8 text-slate-900">
-              I will help you turn your idea, service or business into a clear,
+              We will help you turn your idea, service or business into a clear,
               modern website that people can understand, trust and act on.
             </p>
           </div>
